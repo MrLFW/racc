@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # standard CPU directives, tip: use cpus-per-task to allocate one or more cores per GPU  
 #SBATCH --ntasks=1 
